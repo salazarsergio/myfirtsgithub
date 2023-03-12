@@ -1,1 +1,65 @@
-.env
+.env[33mcommit 2b38a849ec086d29192f8b908f75c915eb66c6de[m[33m ([m[1;36mHEAD -> [m[1;32mramab[m[33m)[m
+Author: Sergio Salazar <salazarsergioalexander@gmail.com>
+Date:   Sun Mar 12 17:13:15 2023 -0300
+
+    informacion a ramab
+
+[33mcommit b803b423b720ac7dc1fd895cb2585c23ddf7aa1a[m
+Author: Sergio Salazar <salazarsergioalexander@gmail.com>
+Date:   Fri Mar 10 10:00:19 2023 -0300
+
+    tenia que guardar automaticamente
+
+[33mcommit c2b21e8b37dbacfcebf8716723c62afd19f99508[m
+Author: Sergio Salazar <salazarsergioalexander@gmail.com>
+Date:   Fri Mar 10 09:44:58 2023 -0300
+
+    comitiado
+
+[33mcommit 30dc30d5bf8f156d441054ef282534c3be87263f[m
+Author: Sergio Salazar <salazarsergioalexander@gmail.com>
+Date:   Fri Mar 10 09:11:52 2023 -0300
+
+    no se agrego en gitignore
+
+[33mcommit 190d2ab0f2c08d3e2beb1de9c60d0915ba34726c[m
+Author: Sergio Salazar <salazarsergioalexander@gmail.com>
+Date:   Fri Mar 10 08:45:46 2023 -0300
+
+    pasando archivo 2 a commit
+
+[33mcommit 1a05b543047ddc92f9b4efec5d7e0dc2a1a79261[m
+Author: Sergio Salazar <salazarsergioalexander@gmail.com>
+Date:   Fri Mar 10 08:19:04 2023 -0300
+
+    agregando archivo gitignore
+
+[33mcommit 442b8d746125b4c500ad87834a969ae942ee9b1d[m
+Author: Sergio Salazar <salazarsergioalexander@gmail.com>
+Date:   Fri Mar 10 00:03:50 2023 -0300
+
+     devolviendo el archivo
+
+[33mcommit 2af942f813b51fcbccfdf2c5462cf33106e174bc[m
+Author: Sergio Salazar <salazarsergioalexander@gmail.com>
+Date:   Fri Mar 10 00:01:01 2023 -0300
+
+    renombrando archivo
+
+[33mcommit b299572aaf950311a9895cb04ef4c5420b33059b[m
+Author: Sergio Salazar <salazarsergioalexander@gmail.com>
+Date:   Thu Mar 9 23:49:26 2023 -0300
+
+    eliminando archivo 2
+
+[33mcommit afda1e285d8a5606dfd0a768a0d8011b37a9e85c[m
+Author: Sergio Salazar <salazarsergioalexander@gmail.com>
+Date:   Thu Mar 9 23:35:57 2023 -0300
+
+    modificacion exitosa
+
+[33mcommit dc9abc6eaa9d6c67e004206b136c143f08d01bb9[m
+Author: Sergio Salazar <salazarsergioalexander@gmail.com>
+Date:   Thu Mar 9 23:31:42 2023 -0300
+
+    commit inicial
